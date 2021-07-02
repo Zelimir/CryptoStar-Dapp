@@ -1,0 +1,5 @@
+node_modules
+build
+.mnemonic
+.infura_key
+.DS_Store
